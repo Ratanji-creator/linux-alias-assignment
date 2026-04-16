@@ -1,0 +1,8 @@
+./FileManager.sh addDir /tmp dir1
+Directory created: /tmp/dir1
+
+./FileManager.sh listAll /tmp
+dir1
+...
+
+./FileManager.sh addFile /tmp file1.txt "Hello"
